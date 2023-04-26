@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zarif Gilman
-- 👀 I’m interested in Data Science & Machine Lerning
+- 👀 I’m interested in Software Development and Data Science
 - 🌱 I’m currently learning Software Engineering
 - 💞️ I’m looking to collaborate on anything that can help a newbie grow
 - 📫 How to reach me zarif607@gmail.com
